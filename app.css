@@ -216,8 +216,7 @@ picture img {
   display: grid;
   grid-template-rows: 0.5fr 1fr;
   grid-template-columns: minmax(18em, calc(100% - 7%));
-  justify-content: center;
-  /* place-items: center; */
+  place-content: center;
   gap: 1rem;
 }
 
