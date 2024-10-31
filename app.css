@@ -209,7 +209,8 @@ picture img {
 }
 
 .product {
-  background: hsl(240, 75%, 98%);
+  /* background: hsl(240, 75%, 98%); */
+  background: #f8f8fe;
   padding-inline: calc(100% - 95%);
   padding-top: calc(100% - 94.5%);
   padding-bottom: calc(100% - 92%);
