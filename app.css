@@ -630,6 +630,7 @@ img.social-icon:hover {
     grid-template-columns: 1fr 0.8fr 0.8fr 0.8fr;
     grid-template-rows: 1fr;
     align-items: first baseline;
+    padding-inline: calc(100% - 95%);
   }
 
 
