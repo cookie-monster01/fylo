@@ -217,7 +217,7 @@ picture img {
   grid-template-rows: 0.5fr 1fr;
   grid-template-columns: minmax(18em, calc(100% - 7%));
   justify-content: center;
-  place-items: center;
+  /* place-items: center; */
   gap: 1rem;
 }
 
@@ -538,7 +538,7 @@ img.social-icon:hover {
   }
 
   .product {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1.2fr 1fr;
     grid-template-rows: 1fr;
 
   }
